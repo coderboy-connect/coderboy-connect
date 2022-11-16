@@ -9,4 +9,4 @@ coderboy-connect/coderboy-connect is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://www.pngmart.com/files/11/Hacker-PNG-Transparent-Image.png" width="50%" >
+<img src="https://www.pngmart.com/files/11/Hacker-PNG-Transparent-Image.png" width="20%" >
