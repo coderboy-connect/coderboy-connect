@@ -30,3 +30,5 @@ I know the basic consept in electronic because i took electronics as my subject 
 
 <h1>i love robots</h1>
 <img src="https://orig00.deviantart.net/b4ae/f/2018/201/d/5/iron_man_pixel_gif_by_maytheforcebewithyou-dchsrbt.png" >
+
+<img src="https://sellbroke.com/wp-content/uploads/2016/11/Yuneec-Typhoon-Drone.png" width=30%>
