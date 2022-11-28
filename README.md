@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @coderboy-connect
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm Golang Developer. I aim to build robust programs, elegant interfaces, and scalable APIs.
 
-<!---
-coderboy-connect/coderboy-connect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an open-source enthusiast. Writing clean and well-documented code is the key to maintainability.
 
-<img src="https://www.pngmart.com/files/11/Hacker-PNG-Transparent-Image.png" width="20%" >
+Reach out to me hello@issmeftah.com
+
+Languages and Tools:
+Go Postgres Redis SQLite MongoDB Electron.js Svelte JavaScript TailwindCSS Netlify Vercel Linux Shell Script Cloudflare Docker Nginx DigitalOcean AWS Git GitHub GitLab 
